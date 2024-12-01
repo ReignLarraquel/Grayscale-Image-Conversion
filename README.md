@@ -118,4 +118,7 @@ All tests had the same outputs for C and Assembly kernels, thus results in all t
 Based on the results from the kernel timing tests, it is evident that the assembly implementation is faster than the C implementation. The time measurements for both the C kernel and the assembly kernel show a clear performance advantage for the assembly-based solution.
 
 ## Demo
+For Demonstration of the code, watch the following video:
+
+[Demo Video](https://github.com/ReignLarraquel/Grayscale-Image-Conversion/blob/main/demo/Demo.mkv)
 
